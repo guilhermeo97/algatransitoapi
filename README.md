@@ -1,10 +1,10 @@
 # API de um Sistema de Autuações de Infração de Veículos
 
-![GitHub repo size](https://img.shields.io/github/repo-size/guilhermeo97/algatransito?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/guilhermeo97/algatransito?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/guilhermeo97/algatransito?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/guilhermeo97/algatransito?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/guilhermeo97/algatransito?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/guilhermeo97/algatransitoapi?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/guilhermeo97/algatransitoapi?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/guilhermeo97/algatransitoapi?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/guilhermeo97/algatransitoapi?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/guilhermeo97/algatransitoapi?style=for-the-badge)
 
 
 
