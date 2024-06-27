@@ -1,10 +1,10 @@
-# Organizador do Empreendedor
+# API de um Sistema de Autuações de Infração de Veículos
 
-![GitHub repo size](https://img.shields.io/github/repo-size/guilhermeo97/apiatendimento?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/guilhermeo97/apiatendimento?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/guilhermeo97/apiatendimento?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/guilhermeo97/apiatendimento?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/guilhermeo97/apiatendimento?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/guilhermeo97/algatransito?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/guilhermeo97/algatransito?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/guilhermeo97/algatransito?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/guilhermeo97/algatransito?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/guilhermeo97/algatransito?style=for-the-badge)
 
 
 
@@ -12,17 +12,15 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Definição do Banco de Dados
-- [ ] Back-end
-- [ ] Front-end
-- [ ] Publicação em Nuvem
-- [ ] Definição da marca
+- [ ] Segurança da API
+
+
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<Java 17, MySQL 8 / Spring 3 / Maven>`
+- Você instalou a versão mais recente de `<Java, MySQL / Spring / Maven / Insomnia ou Postman>`
 - Você tem uma máquina `<Windows / Linux / Mac>`.
 
 
